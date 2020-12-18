@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="error">An error occurred while loading</string>
+</resources>
